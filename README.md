@@ -1,10 +1,7 @@
 # PyPong-
 My newest game: A Pong game with different modes, made entirely using python and pygame. Just enter the code into your preferred coding app, hit run, and have fun! (Only usable on computer)
 
-UPDATE: Beta 0.11
-🏓 PyPong
-A fast-paced, modern take on the classic game — made entirely with Python and Pygame.
-
+UPDATE: Beta 0.13🌊
 PyPong is a feature-packed Pong remake built from scratch in Python.
 With multiple arenas, adjustable AI difficulty, survival mode, particle effects, and menu transitions, it’s a full arcade experience with a nostalgic twist.
 .
@@ -28,60 +25,32 @@ Survival Mode (time-based challenge)
 🧭 Menu Navigation & Scene Transitions
 
 🕹️ Local 2-Player Support
+
 🧩 Update Log
-🆕 Beta 0.12 – “The Smarter Bounce” Update
+🆕 Beta 0.13 – "The Ocean Splash" Update 🌊
+PyPong Beta 0.13 brings a brand-new custom arena with dynamic visual effects, setting the stage for more style and chaos in future updates.
 
-PyPong Beta 0.12 refines the AI, polishes Survival Mode, and smooths out game flow with bug fixes and logic clean-up.
+🏟️ New Arena & Visual Effects
 
-🧠 AI Improvements
+Ocean Wave Arena: A completely new theme with a vibrant blue color palette.
 
-Re-tuned difficulty levels for a more natural progression.
+Dynamic Splash Sequence: A custom animation and particle effect that triggers every time the ball scores in the Ocean Wave Arena.
 
-Easy – slower reaction, occasional misses.
+🛠️ Quality of Life
 
-Medium – balanced tracking and reaction.
+Updated version label and window title to Beta 0.13.
 
-Hard – fast, precise, and more predictive.
+Minor performance optimizations and code cleanup.
 
-Arena-aware AI: Fixed a bug where the AI logic didn’t update properly after switching arenas.
+⬆️ Inherited from Beta 0.12 – "The Smarter Bounce" Update
+(This section details the major foundational improvements from the last version, which remain crucial features.)
 
-⏱️ Survival Mode Rework
+🧠 AI Improvements: Re-tuned difficulty levels and fixed arena-aware AI logic.
 
-Completely refreshed gameplay loop — focus is now on time survived, not score.
+⏱️ Survival Mode Rework: Refreshed gameplay loop focused on time survived with scaling ball speed.
 
-Ball speed scales over time for increasing challenge.
-
-End-of-round timer and reset logic are more consistent.
-
-Improved UI and transitions for a cleaner experience.
-
-🔧 Bug Fixes & Quality of Life
-
-🪲 “Play Again” Button Fix: No longer returns to AI selection; now restarts the game as intended.
-
-🏟️ Arena Selection Fix: Arenas now load and persist correctly after restarts.
-
-🎯 Polished paddle movement and ball speed balancing.
-
-✏️ Code cleanup and additional inline comments for readability.
-
-🌟 Minor Tweaks
-
-Updated version label and window title to Beta 0.12.
-
-Adjusted menu alignment and timing between rounds for smoother flow.
-
-Small visual consistency improvements.
-🛠️ Planned for Beta 0.13
-
-⚡ Power-Ups • 🔊 Sound Effects • 🌈 Animated Backgrounds
-
-The next update focuses on creativity and chaos — power-ups, new arena visuals, and more dynamic matches are coming soon!
-💬 Developer Notes
-
-“This update focused on solidifying the game’s foundation — fixing logic, tightening the AI, and reworking Survival Mode.
-The next few versions will bring sound, power-ups, and even more style!”
-
+🔧 Bug Fixes: Fixed the "Play Again" button and ensured arena selection persists correctly after restarts.
+ 
 — Nihal (Developer of PyPong)
 ❤️ Support & Feedback
 
