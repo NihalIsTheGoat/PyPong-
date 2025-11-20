@@ -1,3 +1,4 @@
+# PyPong Legacy - Beta 0.14
 # Welcome to Pypong!
 # This is a project made by Nihal (Beta 0.14 - Ocean Update)
 # Just hit run to start. Enjoy!
@@ -804,4 +805,5 @@ while running:
 
 # --- Game Exit ---
 pygame.quit()
+
 sys.exit()
