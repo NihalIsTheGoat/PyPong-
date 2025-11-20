@@ -1,4 +1,8 @@
-# PyPong-
+PYPONG LEGACY. PLEASE GO TO MY GITHUB REPOS TO DOWNLOAD THE OFFICIAL CURRENT VERSION
+ONLY PLAY THIS IF YOU CANNOT DOWNLOAD EXE FILES.
+THIS VERSION STILL REQUIRES PYGAME AND PYTHON TO BE INSTALLED.
+
+
 My newest game: A Pong game with different modes, made entirely using python and pygame. Just enter the code into your preferred coding app, hit run, and have fun! (Only usable on computer)
 
 UPDATE: Beta 0.13🌊
